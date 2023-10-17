@@ -14,4 +14,4 @@ Generally, when I approach developing a program, I break it down into smaller ta
 To be a good team member in development, I have to be able to work with others. I need to be able to help when one of my coworkers needs help with something they may have less experience with. I need to be able to take on tasks and constantly learn new things while asking the appropriate questions. I have to be able to answer questions so that everyone knows what is happening. It’s not about being a solo member who does things and then leaves everyone high and dry. I need to be able to work with everyone so that we can all succeed.
 
 
-SNHU. (2023) _Module Eight Journal Guidelines_. SNHU. https://learn.snhu.edu/d2l/le/content/1375031/viewContent/26091395/View
+SNHU. (2023) _CS 250 Module Eight Journal Guidelines_. SNHU. https://learn.snhu.edu/d2l/le/content/1375031/viewContent/26091395/View
